@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: p9/binary/branding/Bundle.properties
+OpenIDE-Module-Specification-Version: 0.0.80
+OpenIDE-Module-Implementation-Version: 0.0.80-20151026
+OpenIDE-Module-Build-Version: 201510260213
+OpenIDE-Module: bindead.branding
+OpenIDE-Module-Public-Packages: -
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: bindead
+OpenIDE-Module-Name: Branding
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.23.1
+

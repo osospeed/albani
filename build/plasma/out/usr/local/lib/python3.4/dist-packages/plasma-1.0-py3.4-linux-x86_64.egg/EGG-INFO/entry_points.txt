@@ -1,0 +1,3 @@
+[console_scripts]
+plasma = plasma.main:console_entry
+

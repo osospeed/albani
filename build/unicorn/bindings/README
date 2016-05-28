@@ -1,0 +1,19 @@
+This directory contains bindings & test code for Python, Java, Go, .NET and MSVC.
+See <language>/README or <language>/README.TXT for how to install each binding.
+
+The following bindings are contributed by community.
+
+- Java binding: by Chris Eagle.
+- Go binding: by Ryan Hileman.
+- .NET binding: by Antonio Parata.
+- MSVC binding: by Zak Escano
+- Ruby binding: by Sascha Schirra
+- Haskell binding: by Adrian Herrera.
+
+More bindings created & maintained externally by community are available as follows.
+
+- UnicornPascal: Delphi/Free Pascal binding (by Stievie).
+    https://github.com/stievie/UnicornPascal
+
+- Unicorn-Rs: Rust binding (by Sébastien Duquette)
+    https://github.com/ekse/unicorn-rs

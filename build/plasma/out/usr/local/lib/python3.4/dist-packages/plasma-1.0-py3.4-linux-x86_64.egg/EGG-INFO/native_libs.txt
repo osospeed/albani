@@ -1,0 +1,3 @@
+plasma/lib/arch/x86/analyzer.cpython-34m.so
+plasma/lib/arch/mips/analyzer.cpython-34m.so
+plasma/lib/arch/arm/analyzer.cpython-34m.so

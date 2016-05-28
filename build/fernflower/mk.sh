@@ -1,0 +1,2 @@
+ant
+rm -rf ./out

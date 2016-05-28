@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="bindead.branding">
+    <module_version install_time="1445825586701" last="true" origin="installer" specification_version="0.0.80">
+        <file crc="2983990245" name="config/Modules/bindead-branding.xml"/>
+        <file crc="3305302806" name="core/locale/core_p9.jar"/>
+        <file crc="79407448" name="modules/bindead-branding.jar"/>
+        <file crc="327463286" name="modules/locale/org-netbeans-core-windows_p9.jar"/>
+        <file crc="440677448" name="modules/locale/org-netbeans-core_p9.jar"/>
+    </module_version>
+</module>

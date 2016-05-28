@@ -1,0 +1,21 @@
+#!/bin/bash
+
+PIN_BIN_PATH=/tmp/pin/pin-2.14-71313-gcc.4.4.7-linux/source/tools/triton/../../../pin.sh
+TRITON_LIB_PATH=/tmp/pin/pin-2.14-71313-gcc.4.4.7-linux/source/tools/triton/build/libtriton.so
+
+if [ -z "$1" ]
+  then
+    echo "You need to specify a script"
+    echo "Syntax: ./triton <your_script.py> <target pid>"
+    exit
+fi
+
+if [ -z "$2" ]
+  then
+    echo "You need to specify a target pid"
+    echo "Syntax: ./triton <your_script.py> <target pid>"
+    exit
+fi
+
+$PIN_BIN_PATH -pid $2  -t $TRITON_LIB_PATH -script $1
+
