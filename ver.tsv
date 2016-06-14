@@ -43,7 +43,7 @@ snowman	5518e4f07fb83ec9aaa6e6d4badcf6913741909d	https://github.com/yegord/snowm
 ssh_rape	e7f83ba517f4398747c9dedb79880496332a58f7	https://github.com/blasty/ssh_rape.git	git
 stegdetect	ff03fa99c01ac0a8ff178bfe31f345b0341f0eb0	https://github.com/abeluck/stegdetect.git	git
 stoke-release	348809763604cf841deaf38f37be3816bad2b5fd	https://github.com/StanfordPL/stoke-release.git	git
-stp	ff816794008e066912e92e52500ce4adcd2b98cf	https://github.com/stp/stp.git	git
+stp	7fab040be5cb9ec077c4661a43b483bd253ca53a	https://github.com/stp/stp.git	git
 taintgrind	d4f83330edfc304d0fe7a9adb08850efd90a17e4	https://github.com/wmkhoo/taintgrind.git	git
 triad-decompiler	9c8f9b6b1e25cf07b03578c5503c134dfd3ec9e2	https://github.com/electrojustin/triad-decompiler.git	git
 triton	5ed4eb8a92bd9785b40ef3cda32a3cd1e9fb192d	https://github.com/JonathanSalwan/Triton.git	git
