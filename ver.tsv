@@ -33,7 +33,7 @@ pwnat	1d07c2eb53171733831c0cd01e4e96a3204ec446	https://github.com/samyk/pwnat.gi
 pybfd	9e722435929b4ad52212043a6f1e9e9ce60b5d72	https://github.com/Groundworkstech/pybfd.git	git
 Python_Pin	5d115f1b5bc730d5dd7a6adc31a74f9a8bfc7c8b	https://github.com/blankwall/Python_Pin.git	git
 qira	f9fdc0b5c769b7212d93a4b284ee8367216469c2	https://github.com/BinaryAnalysisPlatform/qira.git	git
-radare2	010c2c68ab4d078e73ee62bcc9b6bff981b4e14d	https://github.com/radare/radare2.git	git
+radare2	46433dbf534e8e4d9b252745827fb819ead42017	https://github.com/radare/radare2.git	git
 reveng	20160224	none	dyn
 s2e	8618efd3da9e68167aa9f43042188c5ef8fc3787	https://github.com/dslab-epfl/s2e.git	git
 shtest	b5c975997997eba390873a5a90e08f27532c7cb1	https://github.com/hellman/shtest.git	git
