@@ -14,7 +14,7 @@ evilize	20160709	none	dyn
 fernflower	9d5a863e4d63b62c8041d034b23b7425e5cec620	https://github.com/fesh0r/fernflower.git	git
 fuzzball	80ec1e581d204b49debbc70451f0d87bf92ceebf	https://github.com/bitblaze-fuzzball/fuzzball.git	git
 gdsl-toolkit	d40efe9149d6b882063579c0d11a961a89a65876	https://github.com/gdslang/gdsl-toolkit.git	git
-goldendict	229bcc8ef5ea07957a338580ddbbe8f7955107a6	https://github.com/goldendict/goldendict.git	git
+goldendict	b2366124ef0d5c02ef208c40e1de709507faa19d	https://github.com/goldendict/goldendict.git	git
 hash_extender	1bea837cb73e02e4d307344660d8c4122ae5c14d	https://github.com/iagox86/hash_extender.git	git
 jadx	b2f41e95bfce73936b4d316917c95977daf6e1a4	https://github.com/skylot/jadx.git	git
 klee	Xe8fded10ccdaea3d9d72d178506d6aebb799394e	https://github.com/klee/klee.git	git
